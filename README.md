@@ -1,4 +1,17 @@
-### Hi there 👋
+My name is Guilherme, I'm a wonder traveller that has lived in a few different countries in the last two decades.
+_______________________________________________________________________________________________
+ 
+
+#### Now, seriously speaking I'm very passionate about how technology can transform peoples lifes. I really do appreciate that kind of sotware that makes you save several extra worked hours in a month, reducing your payroll by half.  :unlock:
+
+
+
+
+____________________________________________________________________________________________________________________
+
+📫 reach me for more informations
+
+
 
 <!--
 **ferreiraguidev/ferreiraguidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
