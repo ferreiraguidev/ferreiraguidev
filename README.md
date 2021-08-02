@@ -1,4 +1,4 @@
-My name is Guilherme, I'm a wonder traveller that has lived in a few different countries in the last two decades.
+#### My name is Guilherme, I'm a wonder traveller that has lived in a few different countries in the last two decades.
 _______________________________________________________________________________________________
  
 
@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________
 
-📫 reach me for more informations
+#### 📫 reach me for more informations
 
 
 
