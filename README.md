@@ -2,7 +2,7 @@
 _______________________________________________________________________________________________
  
 
-#### Now, seriously speaking I'm very passionate about how technology can transform peoples life. I really do appreciate that kind of sotware that makes you save several extra worked hours in a month, reducing your payroll by half.  :unlock:
+#### Now, seriously speaking I'm very passionate about how technology can transform peoples life. I really do appreciate that kind of software that makes you save several extra worked hours in a month, reducing your payroll by half.  :unlock:
 
 # Welcome
 
